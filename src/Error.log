@@ -1,0 +1,7 @@
+2018-08-24 10:31:16,747 INFO  [Logger1] Firefox initilization 
+2018-08-24 10:31:25,020 INFO  [Logger1] passing parameters 
+2018-08-24 10:31:25,200 INFO  [Logger1] closing the session 
+2018-08-24 10:55:27,537 INFO  [Logger1] Firefox initilization 
+2018-08-24 10:55:56,833 WARN  [Logger1] closing the session 
+2018-08-24 11:07:29,907 INFO  [Logger1] Firefox initilization 
+2018-08-24 11:07:47,484 WARN  [Logger1] closing the session 
